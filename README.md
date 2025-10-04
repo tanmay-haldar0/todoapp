@@ -41,7 +41,8 @@ Stay organized with this elegant task management app featuring glass-morphism de
 
 | Home Screen | Add Task | Completed Tasks |
 |-------------|----------|-----------------|
-| ![Home Screen](https://via.placeholder.com/300x600/2E7D32/FFFFFF?text=Home+Screen) | ![Add Task](https://via.placeholder.com/300x600/4CAF50/FFFFFF?text=Add+Task) | ![Completed Tasks](https://via.placeholder.com/300x600/66BB6A/FFFFFF?text=Completed) |
+| ![Home Screen](https://github.com/user-attachments/assets/e7ebea4f-a504-4c48-b23b-d6038ad7fda5) | ![Add Task](https://github.com/user-attachments/assets/12e8daf3-9fa2-490d-ad33-b12ac498cdeb) | ![Completed Tasks](https://github.com/user-attachments/assets/23ece83d-0559-44c7-841b-2836e857ad67)
+
 
 > 💡 **Tip**: Replace placeholder images with actual screenshots from your device
 
